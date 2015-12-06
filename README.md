@@ -6,7 +6,7 @@ The challenge at hand was to optimize certain portions of an existing website fo
 1. Optimize the index.html page to achive a Page Speed Insights ranking of 90 or better on both mobile and desktop.
 2. Optimize the views/pizza.html to achieve 60FPS or better on the scroll event.
 
-### Part 1: Optimize index.html
+### Part 1: Optimize PageSpeed insights score for index.html
 
 First part for me was to optimize the CSS, first i added the media attribute to the print.css stylesheet and set the value to "Print". then i minified and inlined the necessary CSS into the head of the document. 
 
