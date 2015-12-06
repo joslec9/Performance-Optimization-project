@@ -28,6 +28,6 @@ The next optimization, and very large performance gain, was when I added "will-c
 
 
 ### Index.html page score image
-img/pizza Timeline.jpg
+https://github.com/joslec9/Performance-Optimization-project/blob/master/img/pizza%20Timeline.JPG
 
 
