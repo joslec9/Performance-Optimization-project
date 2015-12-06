@@ -27,3 +27,7 @@ Next, in what I thought was a very interesting approach was to declare an array 
 The next optimization, and very large performance gain, was when I added "will-change: transform" to the pizza element's "mover" class declaration in the stylesheet. That gave an enormous boost to performance and pretty much put me mostly under 60FPS. As an additional optimization in concert with the preceeding, backface-visibility: hidden was added to boost performance in browsers which support hardware acceleration.
 
 
+### Index.html page score image
+img/pizza Timeline.jpg
+
+
