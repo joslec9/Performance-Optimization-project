@@ -13,7 +13,7 @@ First part for me was to optimize the CSS, first i added the media attribute to 
 
 my next step was to get the images down to a reasonable size. as for the JS file i minimized the code and added async attribute to the script tags to allow the page to load and run when ready.
 
-### Part 2: Optimize Slider Widget
+### Part 2: Slider Widget
 
 The main optimization to begin with here, which was discussed in class, was to remove the added calculations and intracacy of the determineDx function since it wasn't necessary when the sizeSwitcher function could merely return a value to be used as a percentage. A much more elegant and significantly quicker solution!
 
