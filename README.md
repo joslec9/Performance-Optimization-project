@@ -30,6 +30,10 @@ The next optimization, and very large performance gain, was when I added "will-c
 ### Index.html page score image
 ![index.html page score image] (https://github.com/joslec9/Performance-Optimization-project/blob/master/img/Portfolio%20Optimization.JPG)
 
+### Index.html page mobile Score 
+![index.html mobile page score](https://github.com/joslec9/Performance-Optimization-project/blob/master/img/mobile%20page%20score.JPG)
+
 ### Pizza Page Optimization Time Line.
 ![pizza optimization timeline](https://github.com/joslec9/Performance-Optimization-project/blob/master/img/pizza%20Timeline.JPG)
+
 
