@@ -36,8 +36,8 @@ form {
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
-  backface-visibility: hidden;/* Add to improve animations with GPU acceleration - as per Udacity Reviewer */
-  will-change: transform;/* Add to allow browser to determine if it should create a new layers */
+  backface-visibility: hidden;
+  will-change: transform;
 }
 
 .randomPizzaContainer {
