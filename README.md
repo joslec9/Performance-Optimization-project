@@ -1,6 +1,8 @@
 # My Website Optimization Project
 ## Lesson 4 - Website Optimization
 
+click link to access: http://joslec9.github.io/Performance-Optimization-project.
+
 The challenge was to optimize certain portions of two existing pages.
 
 1. Optimize the index.html page to achive a Page Speed Insights ranking of 90 or better on both mobile and desktop.
